@@ -7,3 +7,7 @@
 2024-08-27 04:39:59,283 WARNING No such comm: 9db8b7e6-6448-4d8c-a7ca-2ada672f0b5f
 2024-08-27 05:39:07,765 ERROR No such comm target registered: jupyter.widget.control
 2024-08-27 05:39:07,772 WARNING No such comm: 4396c78e-7208-44d0-aa64-62928481d719
+2024-08-27 08:34:43,636 ERROR No such comm target registered: jupyter.widget.control
+2024-08-27 08:34:43,641 WARNING No such comm: 0c05fa7c-4afc-487f-aeb8-555525ad9b50
+2024-08-28 02:57:42,590 ERROR No such comm target registered: jupyter.widget.control
+2024-08-28 02:57:42,600 WARNING No such comm: 704f7333-2091-4c7c-9683-56e25437b397

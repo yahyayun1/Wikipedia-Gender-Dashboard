@@ -1,0 +1,11 @@
+2024-08-27 02:09:20,676 INFO generated new fontManager
+2024-08-27 03:56:19,877 ERROR No such comm target registered: jupyter.widget.control
+2024-08-27 03:56:19,893 WARNING No such comm: 69b80b9e-b0bd-42ef-b98d-e8ed64095719
+2024-08-27 04:23:08,917 ERROR No such comm target registered: jupyter.widget.control
+2024-08-27 04:23:08,919 WARNING No such comm: a7746b5f-c72e-4699-aa97-e9d270e80d54
+2024-08-27 04:39:59,273 ERROR No such comm target registered: jupyter.widget.control
+2024-08-27 04:39:59,283 WARNING No such comm: 9db8b7e6-6448-4d8c-a7ca-2ada672f0b5f
+2024-08-27 05:39:07,765 ERROR No such comm target registered: jupyter.widget.control
+2024-08-27 05:39:07,772 WARNING No such comm: 4396c78e-7208-44d0-aa64-62928481d719
+2024-08-27 08:34:43,636 ERROR No such comm target registered: jupyter.widget.control
+2024-08-27 08:34:43,641 WARNING No such comm: 0c05fa7c-4afc-487f-aeb8-555525ad9b50
