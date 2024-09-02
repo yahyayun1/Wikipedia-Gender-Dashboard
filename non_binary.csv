@@ -1,7 +1,7 @@
 subclass,instance,gender,age,publication_year
 Writer,A._J._Sass,non-binary,40.0,2021.0
 Writer,A._M._Dellamonica,non-binary,56.0,2006.0
-Scientist,A._W._Peet,non-binary,74.0,2017.0
+Scientist,A._W._Peet,non-binary,,2017.0
 Writer,AJ_Odasso,non-binary,43.0,2022.0
 Model,Aaron_Rose_Philip,trans woman,23.0,2018.0
 Artist,Abel_Azcona,non-binary,36.0,2019.0
@@ -26,7 +26,7 @@ Scientist,Alexia_Massalin,trans woman,62.0,2007.0
 Model,Alicia_Liu,trans woman,38.0,2010.0
 Artist,Allison_Parrish,trans woman,,2019.0
 Artist,Alma_Selimovic,genderfluid,43.0,2023.0
-OfficeHolder,Althea_Garrison,trans woman,84.0,2010.0
+OfficeHolder,Althea_Garrison,trans woman,,2010.0
 Writer,Alyssa_Wong,non-binary,,2016.0
 Model,Amanda_Lepore,trans woman,57.0,2005.0
 Model,Amazon_Eve,trans woman,45.0,2010.0
@@ -43,7 +43,7 @@ Model,Andreja_Pejić,trans woman,33.0,2011.0
 Artist,Andrew_O'Neill,non-binary,45.0,2006.0
 Artist,Angel_Haze,agender,33.0,2012.0
 Artist,Angel_Maxine,trans woman,,2022.0
-Artist,Angela_Morley,trans woman,85.0,2003.0
+Artist,Angela_Morley,trans woman,,2003.0
 Politician,Anna_Grodzka,trans woman,70.0,2011.0
 Athlete,Anne_Viriato,trans woman,27.0,2019.0
 Athlete,Annemarie_Sylvia_Meier,trans woman,67.0,2022.0
@@ -68,7 +68,7 @@ Artist,Baby_Dee,trans woman,71.0,2007.0
 Artist,Backxwash,trans woman,33.0,2020.0
 Artist,Bailey_Jay,trans woman,36.0,2011.0
 Athlete,Balian_Buschbaum,trans man,44.0,2007.0
-Artist,Barbra_Amesbury,trans woman,76.0,2005.0
+Artist,Barbra_Amesbury,trans woman,,2005.0
 Criminal,Beate_Schmidt,trans woman,58.0,2013.0
 Athlete,Beatrice_Masilingi,intersex woman,21.0,2021.0
 Artist,Becca_Mancari,non-binary,,2018.0
@@ -76,8 +76,8 @@ Artist,Bell_Nuntita,trans woman,41.0,2011.0
 Scientist,Ben_Barres,trans man,63.0,2006.0
 Artist,Beth_Jeans_Houghton,non-binary,34.0,2009.0
 Artist,Bethany_Black,trans woman,46.0,2008.0
-Artist,Beverly_Glenn-Copeland,trans man,80.0,2017.0
-Artist,Billy_Tipton,trans man,75.0,2003.0
+Artist,Beverly_Glenn-Copeland,trans man,,2017.0
+Artist,Billy_Tipton,trans man,,2003.0
 Youtuber,Blaire_White,trans woman,31.0,2018.0
 Politician,Blake_Desjarlais,two-spirit,31.0,2021.0
 Artist,Bobbi_Salvör_Menuez,non-binary,31.0,2017.0
@@ -97,10 +97,10 @@ Writer,C._L._Polk,non-binary,55.0,2019.0
 Artist,Cait_Brennan,trans woman,55.0,2005.0
 Writer,Caitlín_R._Kiernan,trans woman,60.0,2005.0
 Writer,Camila_María_Concepción,trans woman,29.0,2020.0
-Politician,Camille_Cabral,trans woman,80.0,2012.0
-Writer,Camille_Paglia,trans man,77.0,2002.0
+Politician,Camille_Cabral,trans woman,,2012.0
+Writer,Camille_Paglia,trans man,,2002.0
 Artist,Candi_Carpenter,non-binary,,2017.0
-Politician,Cao_Jie_(eunuch),eunuch,80.0,2007.0
+Politician,Cao_Jie_(eunuch),eunuch,,2007.0
 Politician,Cao_Teng,eunuch,59.0,2006.0
 Politician,Carla_Antonelli,trans woman,65.0,2009.0
 Model,Carmen_Carrera,trans woman,39.0,2011.0
@@ -130,7 +130,7 @@ Politician,Christine_Hallquist,trans woman,68.0,2018.0
 Artist,Christine_Harstad_Schuff,trans woman,45.0,2023.0
 Artist,Christy_Darlington,trans woman,52.0,2013.0
 Writer,Chuck_Tingle,transgender,,2015.0
-Artist,Cidny_Bullens,trans man,74.0,2009.0
+Artist,Cidny_Bullens,trans man,,2009.0
 Artist,Cinder_(musician),transgender,63.0,2009.0
 Artist,Claud_(singer),non-binary,25.0,2020.0
 Artist,Claude_Cahun,non-binary,60.0,2004.0
@@ -149,14 +149,14 @@ Athlete,Darcy_Vescio,non-binary,31.0,2016.0
 Writer,David_Crouse,non-binary,53.0,2008.0
 Writer,Dawn_Langley_Simmons,trans woman,63.0,2007.0
 Artist,DeAnne_Smith,agender,45.0,2011.0
-Artist,Dee_Palmer,trans woman,87.0,2004.0
-Scientist,Deirdre_McCloskey,trans woman,82.0,2005.0
+Artist,Dee_Palmer,trans woman,,2004.0
+Scientist,Deirdre_McCloskey,trans woman,,2005.0
 Artist,Demian_Dinéyazhi',non-binary,41.0,2020.0
-Scientist,Desiré_Dubounet,trans woman,73.0,2016.0
+Scientist,Desiré_Dubounet,trans woman,,2016.0
 Artist,Devon_Rose,non-binary,29.0,2016.0
 Artist,Diana_King,non-binary,54.0,2004.0
 Writer,Diana_Thomas_(writer),trans woman,65.0,2011.0
-Scientist,Dietrich_Braess,cisgender man,86.0,2013.0
+Scientist,Dietrich_Braess,cisgender man,,2013.0
 Artist,DijahSB,non-binary,,2021.0
 Artist,Dorce_Gamalama,trans woman,59.0,2007.0
 Artist,Dorian_Electra,genderfluid,32.0,2012.0
@@ -165,13 +165,13 @@ Artist,Dua_Saleh,non-binary,,2020.0
 Politician,Duda_Salabert,travesti,43.0,2021.0
 Politician,Dylan_Tippetts,trans man,24.0,2022.0
 Artist,Eden_Atwood,intersex woman,55.0,2006.0
-Writer,Eileen_Myles,non-binary,75.0,2005.0
+Writer,Eileen_Myles,non-binary,,2005.0
 Artist,Ele_A_el_Dominio,intersex,36.0,2018.0
 Artist,Eleanor_Hardwick,non-binary,31.0,2015.0
 Artist,Electra_Elite,trans woman,47.0,2021.0
 Artist,Eliot_Sumner,non-binary,34.0,2008.0
 Writer,Elisha_Lim,non-binary,46.0,2012.0
-Scientist,Elke_Mackenzie,trans woman,79.0,2019.0
+Scientist,Elke_Mackenzie,trans woman,,2019.0
 Youtuber,Elsa_Ruiz,trans woman,37.0,2022.0
 Artist,ElyOtto,trans man,20.0,2021.0
 Artist,Elysia_Crampton,trans woman,38.0,2016.0
@@ -180,7 +180,7 @@ Writer,Emily_St._James,trans woman,42.0,2020.0
 Model,Emma_Ellingsen,trans woman,23.0,2018.0
 Scientist,Emmy_Murphy,trans woman,38.0,2018.0
 Politician,Erica_Malunguinho,trans woman,43.0,2018.0
-Artist,Erica_Rutherford,trans woman,85.0,2020.0
+Artist,Erica_Rutherford,trans woman,,2020.0
 Politician,Erika_Hilton,trans woman,32.0,2021.0
 Writer,Essa_may_ranapiri,non-binary,,2022.0
 Politician,Estefan_Cortes-Vargas,non-binary,29.0,2015.0
@@ -189,19 +189,19 @@ Criminal,Eugene_Falleni,trans man,63.0,2010.0
 Cleric,Eustratius_Garidas,eunuch,,2009.0
 Artist,Eva_Shaw,non-binary,,2020.0
 Artist,Evelyn_Morris,non-binary,,2008.0
-Athlete,Ewa_Kłobukowska,intersex woman,78.0,2006.0
+Athlete,Ewa_Kłobukowska,intersex woman,,2006.0
 Scientist,Ewin_Tang,trans woman,24.0,2018.0
 Artist,Ezra_Furman,trans woman,38.0,2008.0
 Athlete,Fallon_Fox,trans woman,49.0,2013.0
-Philosopher,Favorinus,intersex man,115.0,2002.0
+Philosopher,Favorinus,intersex man,,2002.0
 Artist,Felicita_(musician),non-binary,37.0,2017.0
 Politician,Felix_Reda,trans man,38.0,2014.0
 Artist,Feroza_Syed,trans woman,,2020.0
 Artist,Filipe_Catto,non-binary,37.0,2021.0
-Artist,Fiore_de_Henriquez,intersex woman,83.0,2013.0
+Artist,Fiore_de_Henriquez,intersex woman,,2013.0
 Artist,Flor_Amargo,non-binary,36.0,2020.0
 Artist,Florian-Ayala_Fauna,intersex,,2017.0
-Athlete,Foekje_Dillema,intersex woman,81.0,2004.0
+Athlete,Foekje_Dillema,intersex woman,,2004.0
 Writer,Foz_Meadows,non-binary,38.0,2018.0
 Writer,France_Daigle,trans man,71.0,2009.0
 Artist,Frances_Forever,non-binary,25.0,2021.0
@@ -210,7 +210,7 @@ Athlete,Francine_Niyonsaba,intersex woman,31.0,2012.0
 Criminal,Francis_Heaulme,intersex man,65.0,2008.0
 OfficeHolder,Freya_(cat),female organism,15.0,2012.0
 MilitaryPerson,Fufu_(dog),male organism,18.0,2015.0
-Scientist,G.F._Laundon,trans woman,86.0,2019.0
+Scientist,G.F._Laundon,trans woman,,2019.0
 Artist,G_Flip,non-binary,30.0,2018.0
 Athlete,Gabbi_Tuft,trans woman,46.0,2008.0
 Writer,Gabrielle_Calvocoressi,non-binary,50.0,2017.0
@@ -227,7 +227,7 @@ Politician,Gladstone_(cat),male organism,10.0,2016.0
 Artist,Grant_Morrison,non-binary,64.0,2003.0
 Artist,Gummibär,male organism,,2009.0
 Writer,Gwen_Benaway,trans woman,37.0,2018.0
-OfficeHolder,Hadım_Ali_Pasha,eunuch,110.0,2010.0
+OfficeHolder,Hadım_Ali_Pasha,eunuch,,2010.0
 MilitaryPerson,Hadım_Suleiman_Pasha_(governor_of_Rumelia),eunuch,,2006.0
 Artist,Hannah_Gadsby,non-binary,46.0,2009.0
 Model,Hanne_Gaby_Odiele,non-binary,36.0,2009.0
@@ -239,7 +239,7 @@ Writer,Harry_Josephine_Giles,non-binary,38.0,2022.0
 Writer,Helen_Macdonald_(writer),non-binary,54.0,2015.0
 Artist,Hiten_Noonwal,genderfluid,,2021.0
 Artist,Holland_Andrews,genderfluid,36.0,2021.0
-Artist,Honey_Dijon,trans woman,74.0,2017.0
+Artist,Honey_Dijon,trans woman,,2017.0
 Politician,Huang_Hao,eunuch,,2005.0
 Politician,Humphrey_(cat),male organism,18.0,2004.0
 Artist,Hunter_Hunt-Hendrix,trans woman,39.0,2023.0
@@ -253,7 +253,7 @@ Artist,Indira_Allegra,non-binary,,2018.0
 Artist,Invincible_(rapper),non-binary,,2007.0
 Model,Isis_King,trans woman,39.0,2008.0
 Scientist,JJ_Eldridge,non-binary,,2019.0
-Artist,Jackie_Shane,trans woman,79.0,2015.0
+Artist,Jackie_Shane,trans woman,,2015.0
 Scientist,Jaimie_Veale,trans woman,,2021.0
 Artist,Jake_Elwes,non-binary,31.0,2021.0
 Artist,Jake_Zyrus,trans man,32.0,2007.0
@@ -263,15 +263,15 @@ Youtuber,James_Stephanie_Sterling,non-binary,40.0,2014.0
 Writer,James_Wylder,non-binary,35.0,2022.0
 Youtuber,Jamie_Raines,trans man,30.0,2021.0
 Politician,Jamie_Wallis,transgender,40.0,2019.0
-Writer,Jan_Morris,trans woman,94.0,2005.0
+Writer,Jan_Morris,trans woman,,2005.0
 Artist,Jana_Hunter,genderfluid,,2005.0
 Artist,Janelle_Monáe,non-binary,39.0,2006.0
 Scientist,Jaqueline_Jesus,trans woman,46.0,2015.0
 Artist,Jason_Greene,genderfluid,36.0,2018.0
 Writer,Jay_Hulme,trans man,27.0,2017.0
-Artist,Jayne_County,trans woman,77.0,2005.0
+Artist,Jayne_County,trans woman,,2005.0
 Artist,Jean_Grae,non-binary,48.0,2005.0
-Artist,Jeanette_Schmid,trans woman,81.0,2006.0
+Artist,Jeanette_Schmid,trans woman,,2006.0
 Writer,Jeannette_Ng,non-binary,47.0,2018.0
 Artist,Jeffrey_Catherine_Jones,trans woman,67.0,2005.0
 Artist,Jen_Cloher,non-binary,51.0,2010.0
@@ -284,11 +284,11 @@ Artist,Jerry_Paper,non-binary,34.0,2018.0
 Politician,Jess_Herbst,trans woman,66.0,2017.0
 Artist,Jess_McAvoy,non-binary,44.0,2008.0
 Writer,Jia_Qing_Wilson-Yang,trans woman,41.0,2017.0
-Politician,Jian_Shuo,eunuch,89.0,2005.0
+Politician,Jian_Shuo,eunuch,,2005.0
 Artist,Jin_Xing,trans woman,57.0,2005.0
 Cleric,Jo_Inkpin,trans woman,,2021.0
 Artist,Joachim-Raphaël_Boronali,male organism,,2017.0
-Scientist,Joan_Roughgarden,trans woman,78.0,2006.0
+Scientist,Joan_Roughgarden,trans woman,,2006.0
 Artist,Johanna_Hedva,non-binary,40.0,2016.0
 Artist,John-Allison_Weiss,non-binary,37.0,2012.0
 Artist,John_Trobaugh,trans woman,56.0,2023.0
@@ -315,7 +315,7 @@ Youtuber,Kat_Blaque,trans woman,34.0,2015.0
 Model,Kataluna_Enriquez,trans woman,29.0,2021.0
 Artist,Kate_Leth,non-binary,36.0,2015.0
 Scientist,Kate_Stone_(engineer),trans woman,,2020.0
-Artist,Katherine_Collins,trans woman,77.0,2006.0
+Artist,Katherine_Collins,trans woman,,2006.0
 Artist,Katie_Dey,trans woman,,2019.0
 Model,Kayo_Satoh,trans woman,36.0,2010.0
 Youtuber,Keffals,trans woman,30.0,2022.0
@@ -340,7 +340,7 @@ Artist,L._Frank,two-spirit,72.0,2006.0
 Artist,LP_(singer),non-binary,43.0,2004.0
 Royalty,Labib_al-Fata_al-Saqlabi,eunuch,,2020.0
 Artist,Lady_Catiria,trans woman,40.0,2009.0
-Artist,Laerte_Coutinho,trans woman,73.0,2011.0
+Artist,Laerte_Coutinho,trans woman,,2011.0
 Writer,Laila_Woozeer,non-binary,,2022.0
 OfficeHolder,Larry_(cat),male organism,17.0,2011.0
 Artist,Laura_Les,trans woman,30.0,2021.0
@@ -359,7 +359,7 @@ Model,Leyna_Bloom,trans woman,34.0,2017.0
 Politician,Li_Lianying,eunuch,63.0,2004.0
 Artist,Lia_Clark,genderfluid,32.0,2010.0
 Artist,Lilah_Sturges,trans woman,54.0,2007.0
-MilitaryPerson,Lin_Wang,male organism,86.0,2004.0
+MilitaryPerson,Lin_Wang,male organism,,2004.0
 Politician,Linda_Brasil,trans woman,51.0,2022.0
 Writer,Linden_A._Lewis,non-binary,,2021.0
 Writer,Lindo_Bacon,genderqueer,61.0,2021.0
@@ -379,7 +379,7 @@ Scientist,Lucianne_Walkowicz,non-binary,45.0,2017.0
 Writer,Lucy_Sante,trans woman,70.0,2006.0
 Politician,Luisa_Revilla,trans woman,50.0,2021.0
 Artist,Lynn_Breedlove,trans man,66.0,2006.0
-Scientist,Lynn_Conway,trans woman,86.0,2004.0
+Scientist,Lynn_Conway,trans woman,,2004.0
 MilitaryPerson,Lê_Văn_Duyệt,intersex man,69.0,2009.0
 Youtuber,MacGyver_the_Lizard,male organism,12.0,2016.0
 Artist,Macy_Rodman,trans woman,34.0,2021.0
@@ -395,7 +395,7 @@ MilitaryPerson,Marengo_(horse),male organism,37.0,2006.0
 Politician,Maria_Nikiforova,intersex woman,34.0,2005.0
 Writer,Marieke_Lucas_Rijneveld,non-binary,33.0,2023.0
 Writer,Marieke_Nijkamp,non-binary,38.0,2015.0
-Artist,Marjorie_Beaucage,two-spirit,77.0,2018.0
+Artist,Marjorie_Beaucage,two-spirit,,2018.0
 Criminal,Mark_Errin_Rust,intersex man,59.0,2017.0
 Artist,Marumaru,trans woman,31.0,2015.0
 Writer,Mary_Diana_Dods,trans man,40.0,2014.0
@@ -415,18 +415,18 @@ Artist,Mica_Levi,non-binary,37.0,2008.0
 Artist,Micha_Cárdenas,trans woman,47.0,2009.0
 OfficeHolder,Michael_A._Sullivan,intersex man,65.0,2023.0
 Artist,Michael_Mandiberg,non-binary,47.0,2008.0
-Artist,Michel-Marie_Poulain,trans woman,85.0,2021.0
-Criminal,Michelle_Kosilek,trans woman,75.0,2006.0
+Artist,Michel-Marie_Poulain,trans woman,,2021.0
+Criminal,Michelle_Kosilek,trans woman,,2006.0
 Artist,Mila_Jam,trans woman,35.0,2008.0
 Youtuber,Miles_McKenna,trans man,29.0,2020.0
-Politician,Millangoda_Raja,male organism,73.0,2011.0
+Politician,Millangoda_Raja,male organism,,2011.0
 Politician,Mina_Tolu,non-binary,33.0,2018.0
 Artist,Mineko_Nomachi,trans woman,45.0,2020.0
 Politician,Misty_Plowright,trans woman,42.0,2016.0
 Politician,Misty_Snow,trans woman,39.0,2016.0
 Artist,Montaigne_(musician),non-binary,29.0,2015.0
 Artist,Moore_Kismet,non-binary,20.0,2021.0
-MilitaryPerson,Mu'nis_al-Muzaffar,eunuch,89.0,2006.0
+MilitaryPerson,Mu'nis_al-Muzaffar,eunuch,,2006.0
 Model,Munroe_Bergdorf,trans woman,37.0,2017.0
 Artist,Mya_Byrne,trans woman,46.0,2005.0
 Artist,Mykki_Blanco,trans woman,38.0,2013.0
@@ -437,7 +437,7 @@ Artist,Nakhane,non-binary,36.0,2019.0
 Artist,Namoli_Brennet,trans woman,54.0,2007.0
 Artist,Nana_Okada,non-binary,27.0,2015.0
 Artist,Naomy_(Romanian_singer),trans woman,47.0,2016.0
-MilitaryPerson,Narses,eunuch,90.0,2002.0
+MilitaryPerson,Narses,eunuch,,2002.0
 Politician,Natasha_Devon,cisgender woman,43.0,2016.0
 Artist,Nathalie_Lawhead,non-binary,,2019.0
 Model,Nathan_Westling,trans man,28.0,2014.0
@@ -460,7 +460,7 @@ Politician,Nyke_Slawik,trans woman,30.0,2021.0
 Artist,Octo_Octa,trans woman,37.0,2017.0
 Artist,Olek_(artist),non-binary,46.0,2008.0
 Artist,Olive_Gray,non-binary,30.0,2007.0
-Architect,Olivia_Chaumont,trans woman,74.0,2018.0
+Architect,Olivia_Chaumont,trans woman,,2018.0
 Artist,Our_Lady_J,non-binary,39.0,2014.0
 Politician,Owen_Hurcum,non-binary,27.0,2021.0
 Politician,Palmerston_(cat),male organism,10.0,2016.0
@@ -490,7 +490,7 @@ Cleric,Rachel_Mann,trans woman,54.0,2014.0
 Model,Rain_Dove,non-binary,35.0,2018.0
 Scientist,Rebecca_Oppenheimer,trans woman,52.0,2006.0
 Politician,Rembrandt_(horse),male organism,24.0,2011.0
-Athlete,Renée_Richards,trans woman,90.0,2005.0
+Athlete,Renée_Richards,trans woman,,2005.0
 Artist,Rhys_Nicholson,non-binary,34.0,2010.0
 Athlete,Ricardo_del_Real,trans man,50.0,2019.0
 Artist,Rinu,trans man,26.0,2020.0
@@ -498,11 +498,11 @@ Artist,River_Butcher,trans man,42.0,2016.0
 Politician,Ro_Allen,genderfluid,,2018.0
 Model,Roberta_Close,trans woman,60.0,2006.0
 Politician,Robeyoncé_Lima,trans woman,36.0,2020.0
-Artist,Romy_Haag,trans woman,76.0,2007.0
+Artist,Romy_Haag,trans woman,,2007.0
 Artist,Ronya,non-binary,33.0,2016.0
-Artist,Rosa_Bonheur,non-binary,77.0,2002.0
+Artist,Rosa_Bonheur,non-binary,,2002.0
 Artist,Rosie_Tucker,non-binary,34.0,2021.0
-Artist,Rune_Naito,trans woman,92.0,2020.0
+Artist,Rune_Naito,trans woman,,2020.0
 Artist,Ryan_Cassata,trans man,31.0,2011.0
 Artist,Rémy_Noë,trans man,50.0,2007.0
 Artist,Sadie_Benning,non-binary,51.0,2004.0
@@ -512,7 +512,7 @@ Artist,Sam_Bettens,trans man,52.0,2004.0
 Artist,Sam_Lo,non-binary,,2016.0
 Scientist,Samer_Hassan,non-binary,42.0,2018.0
 Politician,Samonas,eunuch,31.0,2010.0
-Artist,Sandy_Stone_(artist),trans woman,88.0,2007.0
+Artist,Sandy_Stone_(artist),trans woman,,2007.0
 Athlete,Santhi_Soundarajan,intersex woman,43.0,2006.0
 Politician,Sarah_Brown_(politician),trans woman,,2013.0
 Athlete,Sarah_Gronert,intersex woman,38.0,2009.0
@@ -533,7 +533,7 @@ Artist,Sierra_Noble,non-binary,34.0,2011.0
 Artist,Simon_Hanselmann,genderfluid,43.0,2013.0
 MilitaryPerson,Sinbad_(dog),male organism,14.0,2011.0
 Artist,Sir_Babygirl,non-binary,31.0,2019.0
-Noble,"Sir_Ewan_Forbes,_11th_Baronet",intersex,79.0,2007.0
+Noble,"Sir_Ewan_Forbes,_11th_Baronet",intersex,,2007.0
 Model,Siri_Lehland,trans woman,23.0,2018.0
 Academic,Sj_Miller,non-binary,54.0,2017.0
 Artist,Skylar_Kergil,trans man,33.0,2014.0
@@ -549,10 +549,10 @@ Athlete,Stephanie_Barrett,trans woman,45.0,2021.0
 Politician,Stephanie_Byers,trans woman,61.0,2020.0
 Presenter,Stephanie_Hirst,trans woman,49.0,2006.0
 Politician,Stephe_Koontz,trans woman,,2018.0
-Politician,Stu_Rasmussen,trans man,73.0,2008.0
+Politician,Stu_Rasmussen,trans man,,2008.0
 Politician,Stubbs_(cat),male organism,20.0,2012.0
 Politician,Susan_Allen,two-spirit,61.0,2011.0
-Criminal,Susan_Monica,trans woman,76.0,2018.0
+Criminal,Susan_Monica,trans woman,,2018.0
 Model,Teddy_Quinlivan,trans woman,30.0,2017.0
 Royalty,Theophylact_(son_of_Michael_I),eunuch,56.0,2012.0
 Philosopher,Timothy_Morton,non-binary,56.0,2011.0
@@ -565,6 +565,6 @@ Model,Valentina_Sampaio,trans woman,28.0,2019.0
 Youtuber,Vladislav_Bumaga,trans man,28.0,2024.0
 MilitaryPerson,William_Windsor_(goat),male organism,24.0,2009.0
 MilitaryPerson,Wojtek_(bear),male organism,22.0,2006.0
-Athlete,Zdeněk_Koubek,intersex,73.0,2014.0
+Athlete,Zdeněk_Koubek,intersex,,2014.0
 MilitaryPerson,Zhao_Yun,intersex,68.0,2003.0
 BeautyQueen,Ángela_Ponce,trans woman,33.0,2018.0
