@@ -1,0 +1,3 @@
+- Preprocessing.ipynb provides the preprocessing jupyter file for the preprocessing steps
+- Data folder contains all the data collected in the data collection step
+- Other
