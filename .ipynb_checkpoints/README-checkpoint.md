@@ -1,0 +1,4 @@
+- Preprocessing.ipynb provides the preprocessing jupyter file for the preprocessing steps
+- The data folder contains all the data collected in the data collection step
+- Final1.0.csv, Final2.0.csv, and non-binary.csv are the preprocessed data used in the dashboards
+- Other files are the temp file for the Preprocessing.ipynb
