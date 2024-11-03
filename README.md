@@ -20,10 +20,10 @@ The Wikipedia Gender Dashboard serves as both a data analysis tool and a resourc
 This repository includes the following main directories and files:
 
 - **`.ipynb_checkpoints`**: Auto-generated checkpoint files for Jupyter notebooks.
-- **Data Collection & Preprocessing**: Contains the notebooks and data for collecting and preprocessing Wikipedia data from sources like DBpedia and Wikidata.
+- **`Data/`**: A folder with raw and intermediate data files.
+- **Data/DataCollection & Preprocessing**: Contains the notebooks and data for collecting and preprocessing Wikipedia data from sources like DBpedia and Wikidata.
   - `Data Collection.ipynb`: Details the data collection steps, including custom SPARQL queries.
   - `Preprocessing.ipynb`: Outlines preprocessing steps to clean and structure data.
-- **`data/`**: A folder with raw and intermediate data files.
   - `Final3.0.csv` and `non-binary2.0.csv`: Preprocessed datasets used in the dashboards.
 - **Microsoft Power BI Dashboard**: Contains Power BI files for the main dashboard visualizations.
   - `WGD during usability study.pbix`: The initial dashboard used for usability testing.
@@ -37,7 +37,7 @@ This repository includes the following main directories and files:
 This project consists of three main components: data collection & preprocessing, the Power BI dashboard, and the website interface.
 
 ### Data Collection & Preprocessing
-- **Data Collection**: Open Data Collection & Preprocessing/Data Collection.ipynb in Jupyter Notebook. This file includes code for collecting data from DBpedia and Wikidata using SPARQL queries. Run each cell to download and save data locally.
+- **Data Collection**: Open Data Collection&Preprocessing/Data/DataCollection.ipynb in Jupyter Notebook. This file includes code for collecting data from DBpedia and Wikidata using SPARQL queries. Run each cell to download and save data locally.
 - **Data Preprocessing**: After collecting the data, open Preprocessing.ipynb to preprocess it. This file cleans, transforms, and structures the data, creating final datasets (Final3.0.csv and non-binary2.0.csv) that will be used in the Power BI dashboard.
 
 ### Power BI Dashboard
