@@ -5,7 +5,6 @@ This repository contains the code, data, and dashboards for the **Wikipedia Gend
 ## Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
   - [Data Collection & Preprocessing](#data-collection--preprocessing)
   - [Power BI Dashboard](#power-bi-dashboard)
@@ -35,21 +34,30 @@ This repository includes the following main directories and files:
   - **`assets/`, `css/`, `js/`**: Supporting resources, styles, and scripts for the website.
 - **`README.md`**: This file provides an overview of the project, setup instructions, and usage details.
 
-## Setup Instructions
-To set up this project locally, you’ll need to install the required dependencies and optionally set up Power BI to view the dashboard.
+## Usage
+This project consists of three main components: data collection & preprocessing, the Power BI dashboard, and the website interface.
 
-### Prerequisites
-- **Python 3.7+**
-- **Jupyter Notebook**
-- **Microsoft Power BI Desktop** (for viewing and editing the Power BI dashboard)
-- **Git** (optional, for cloning the repository)
+### Data Collection & Preprocessing
+- **Data Collection**: Open Data Collection & Preprocessing/Data Collection.ipynb in Jupyter Notebook. This file includes code for collecting data from DBpedia and Wikidata using SPARQL queries. Run each cell to download and save data locally.
+- **Data Preprocessing**: After collecting the data, open Preprocessing.ipynb to preprocess it. This file cleans, transforms, and structures the data, creating final datasets (Final3.0.csv and non-binary2.0.csv) that will be used in the Power BI dashboard.
 
-### Installation
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yahyayun1/Wikipedia-Gender-Dashboard.git
-   cd Wikipedia-Gender-Dashboard
+### Power BI Dashboard
+To view or edit the Power BI dashboard:
 
+### Open Microsoft Power BI Desktop.
+Navigate to Microsoft Power BI Dashboard/ in this repository.
+Open either:
+WGD during usability study.pbix: The initial version used during usability testing.
+updated WGD post usability study.pbix: An updated version incorporating usability feedback.
+The dashboard provides several visualizations, such as:
+
+### Gender distribution across subclasses.
+Average age differences between male and female articles.
+Gender representation trends over time.
+Website Interface
+The web interface is a lightweight HTML/JavaScript site that allows users to interact with the dashboard’s data through a browser. The website files are located in the WGD Website folder.
+
+Open index.html in a web browser to view the site locally. The interface provides access to the main visualizations and summaries, making it easier to share insights with users who may not have access to Power BI.
 
 
 
